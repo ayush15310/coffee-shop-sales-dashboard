@@ -1,6 +1,7 @@
 # Coffee Shop Sales & Performance Dashboard
 
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/your-unique-image-id))
+![Dashboard Preview](![Uploading coffee sales .png…]()
+)
 
 
 ## Project Overview
