@@ -1,6 +1,6 @@
 # Coffee Shop Sales & Performance Dashboard
 
-![Dashboard Preview](file:///Users/ayushraj/Desktop/coffee%20sales%20.png)
+![Dashboard Preview](coffee%20sales%20.png))
 
 
 
