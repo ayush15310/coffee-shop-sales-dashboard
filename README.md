@@ -67,7 +67,7 @@ This project helps management optimize daily operations, staffing, and revenue s
 
 ## Code & Links
 
-* [Click here to view the SQL code](analysis_queries.sql)
+* [Click here to view the SQL code](coffee_shop_queries.sql)
 
 ---
 
