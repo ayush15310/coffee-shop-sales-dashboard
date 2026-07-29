@@ -1,6 +1,7 @@
-# ☕ Coffee Shop Sales & Performance Dashboard
+# Coffee Shop Sales & Performance Dashboard
 
-![Dashboard Preview](coffee_shop_dashboard.png)
+![Dashboard Preview](![Uploading Screenshot 2026-07-29 at 6.25.40 PM.png…]()
+)
 
 ## Project Overview
 
