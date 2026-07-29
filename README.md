@@ -1,7 +1,7 @@
 # Coffee Shop Sales & Performance Dashboard
 
-![Dashboard Preview](![Uploading Screenshot 2026-07-29 at 6.25.40 PM.png…]()
-)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/your-unique-image-id))
+
 
 ## Project Overview
 
